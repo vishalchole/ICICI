@@ -2,3 +2,10 @@ Testcase 1
 Testcase 2
 Testcase 3
 testcase 4
+int (i=0;i<=10, i++)
+{ 
+
+    sys()
+
+
+}
